@@ -78,7 +78,7 @@ const Header: React.FC<Props> = ({ currentSection }) => {
     <div className="fixed top-0 h-24 w-full flex justify-center items-center bg-gray-950">
       <button
         onClick={toggleMenu}
-        className="absolute bottom-1/2 translate-y-1/2 left-2 h-8 w-8 flex justify-center items-center text-gray-200 text-5xl"
+        className="absolute left-5 top-7 text-5xl text-gray-200 bg-gray-900 rounded-full h-11 w-11 flex justify-center items-center"
       >
         =
       </button>
