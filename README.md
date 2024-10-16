@@ -11,6 +11,7 @@ Try it here: [https://recent-news.netlify.app](https://recent-news.netlify.app)
 ## Tech Stack
 - Next.js
 - React
+- TypeScript
 - Tailwind CSS
 
 ## Features
